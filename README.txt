@@ -2,13 +2,13 @@
 
 
 <--For Admin Login-->
-Username: Shakil
-Password: Sa123*
+Username: roman
+Password: ro123*
 
 
 <--For Co-Ordinator Login-->
-Username: Ahmmed
-Password: Sa123*
+Username: sheikh
+Password: sh123*
 
 
 If You want to use email verification on user registration then 
